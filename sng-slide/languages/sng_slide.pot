@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:15
+msgid "Slides"
+msgstr ""
+
+#: index.php:16
+msgid "Slide"
+msgstr ""
+
+#: index.php:19
+msgid "Add new"
+msgstr ""
+
+#: index.php:20
+msgid "Add new slide"
+msgstr ""
+
+#: index.php:21
+msgid "New slide"
+msgstr ""
+
+#: index.php:22
+msgid "Edit slide"
+msgstr ""
+
+#: index.php:23
+msgid "View slide"
+msgstr ""
+
+#: index.php:24
+msgid "All slides"
+msgstr ""
+
+#: index.php:25
+msgid "Search slides"
+msgstr ""
+
+#: index.php:26
+msgid "Parent slide:"
+msgstr ""
+
+#: index.php:27
+msgid "No slide found."
+msgstr ""
+
+#: index.php:28
+msgid "No slide found in trash."
+msgstr ""
+
+#: index.php:40
+msgid "Description"
+msgstr ""

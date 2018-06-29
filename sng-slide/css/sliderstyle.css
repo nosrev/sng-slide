@@ -1,0 +1,58 @@
+.slidprev, .slidnext {
+	text-indent: -99999px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 80px;
+	height: 80px;
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	margin-top: -80px;
+	z-index: 99999;
+}
+
+.slidprev {
+	background-image: url(../img/left.png);
+	left: 0;
+}
+
+.slidnext {
+	background-image: url(../img/right.png);
+	right: 0;
+}
+
+.slidtextWrapper {
+	margin: 0;
+	top: -150px;
+	background: rgba(0,0,0,0.5);
+	padding: 20px;
+}
+
+.slid_text {
+	color: #fff;
+}
+
+.slid_text p {
+	margin-bottom: 0 !important;
+}
+
+.slid_title {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.paginationSlider {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.paginationSlider a {
+	margin: 10px;
+	border: none !important;
+}  
+
+.paginationSlider a.selected {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 24px;
+}
